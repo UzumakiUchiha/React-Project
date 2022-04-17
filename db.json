@@ -1,0 +1,53 @@
+{
+  "usersdetail": [
+    {
+      "full_name": "zoyeb khan",
+      "date_of_birth": "1199-09-02",
+      "age": 822,
+      "email": "zoyebk07@gmail.com",
+      "confirm_email": "zoyebk07@gmail.com",
+      "phone_number": "+919876543210",
+      "id": 1
+    },
+    {
+      "gender": "Male",
+      "full_name": "zoyeb khan",
+      "date_of_birth": "2000-09-02",
+      "age": 21,
+      "email": "zoyebk07@gmail.com",
+      "confirm_email": "zoyebk07@gmail.com",
+      "phone_number": "+919876543210",
+      "id": 2
+    },
+    {
+      "full_name": "zoyeb khan",
+      "date_of_birth": "1991-09-02",
+      "age": 30,
+      "gender": "Male",
+      "email": "kjaved97920@gmail.com",
+      "confirm_email": "kjaved97920@gmail.com",
+      "phone_number": "+919876543210",
+      "id": 3
+    },
+    {
+      "full_name": "zoyeb khan",
+      "date_of_birth": "1991-09-02",
+      "age": 30,
+      "email": "zoyebk07@gmail.com",
+      "confirm_email": "zoyebk07@gmail.com",
+      "phone_number": "+919876543210",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "full_name": "zoyeb khan",
+      "date_of_birth": "1991-09-02",
+      "age": 30,
+      "email": "zoyebk07@gmail.com",
+      "confirm_email": "zoyebk07@gmail.com",
+      "phone_number": "+919876543210",
+      "gender": "Male",
+      "id": 5
+    }
+  ]
+}
